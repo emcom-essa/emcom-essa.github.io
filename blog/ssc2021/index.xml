@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2021, Nikolas Zöller.</copyright>
-    <lastBuildDate>Thu, 22 Jul 2021 11:23:45 +0200</lastBuildDate><atom:link href="https://emcom-essa.github.io/blog/ssc2021/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 13:07:24 +0100</lastBuildDate><atom:link href="https://emcom-essa.github.io/blog/ssc2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test3</title>
+      <link>https://emcom-essa.github.io/test3/</link>
+      <pubDate>Wed, 02 Feb 2022 13:07:24 +0100</pubDate>
+      
+      <guid>https://emcom-essa.github.io/test3/</guid>
+      <description>This is a page about »Test3«.</description>
+    </item>
+    
+    <item>
+      <title>Test2</title>
+      <link>https://emcom-essa.github.io/test2/</link>
+      <pubDate>Wed, 02 Feb 2022 13:05:18 +0100</pubDate>
+      
+      <guid>https://emcom-essa.github.io/test2/</guid>
+      <description>This is a page about »Test2«.</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://emcom-essa.github.io/test/</link>
+      <pubDate>Wed, 02 Feb 2022 12:48:21 +0100</pubDate>
+      
+      <guid>https://emcom-essa.github.io/test/</guid>
+      <description>This is a page about »Test«. hello hello</description>
+    </item>
+    
     <item>
       <title>Workshop at SSC2021</title>
       <link>https://emcom-essa.github.io/workshop-at-ssc2021/</link>
